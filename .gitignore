@@ -1,0 +1,9 @@
+$ git clone https://git.overleaf.com/2029559gkypzx paper
+Cloning into 'paper'...
+remote: Counting objects: 13, done
+remote: Finding sources: 100% (13/13)
+remote: Getting sizes: 100% (8/8)
+remote: Compressing objects: 100% (103172/103172)
+remote: Total 13 (delta 1), reused 4 (delta 1)
+Unpacking objects: 100% (13/13), done.
+Checking connectivity... done.
